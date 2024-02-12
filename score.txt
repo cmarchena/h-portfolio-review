@@ -1,0 +1,8 @@
+ Total tests: 12 
+<<<<<<< HEAD
+ Passed tests: 5 
+ Score: 41.67
+=======
+ Passed tests: 12 
+ Score: 100.00
+>>>>>>> 2dd39ef (first commit)
